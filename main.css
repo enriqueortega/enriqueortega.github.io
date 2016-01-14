@@ -9,7 +9,7 @@ body *{
 }
 
 body {
-	background-color: #ccc;
+	background-color: #ddd;
 }
 
 #wrapper {
@@ -55,6 +55,7 @@ body {
 	border-style: solid;
 	border-color: #158ACC;
 	background-color: black;
+	box-shadow: 1px 2px 2px #000;
 }
 
 #title-bar h1 {
@@ -111,6 +112,7 @@ body {
 
 img {
 	max-width: 100%;
+	background-image: radial-gradient(circle, #158ACC #ddd);
 }
 
 
